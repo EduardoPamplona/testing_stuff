@@ -1,3 +1,6 @@
 isto é um teste
 ola teste,
 ola testador!
+
+adeus teste,
+adeus testador!
